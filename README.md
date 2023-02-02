@@ -7,4 +7,4 @@ Specifically, I created a Multilayer Perceptron model to identify knowledge grap
 Through this process, I was able to achieve an F-1 score of 0.81 on the relation extraction model and 0.85 on the named entity recognition model.
 
 
-Named Entity Recognition model: https://github.com/surely-zoe/Named-Entity-Recognition
+Named Entity Recognition model [here](https://github.com/surely-zoe/Named-Entity-Recognition).
